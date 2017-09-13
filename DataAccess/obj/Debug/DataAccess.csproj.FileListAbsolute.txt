@@ -1,0 +1,8 @@
+C:\Users\Facundo\Source\repos\API\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Facundo\Source\repos\API\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Facundo\Source\repos\API\DataAccess\bin\Debug\Entities.dll
+C:\Users\Facundo\Source\repos\API\DataAccess\bin\Debug\Entities.pdb
+C:\Users\Facundo\Source\repos\API\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Facundo\Source\repos\API\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Facundo\Source\repos\API\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Facundo\Source\repos\API\DataAccess\obj\Debug\DataAccess.pdb

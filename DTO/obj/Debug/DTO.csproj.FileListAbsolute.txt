@@ -1,0 +1,6 @@
+C:\Users\Facundo\Source\repos\API\DTO\bin\Debug\DTO.dll
+C:\Users\Facundo\Source\repos\API\DTO\bin\Debug\DTO.pdb
+C:\Users\Facundo\Source\repos\API\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Facundo\Source\repos\API\DTO\obj\Debug\DTO.dll
+C:\Users\Facundo\Source\repos\API\DTO\obj\Debug\DTO.pdb
+C:\Users\Facundo\Source\repos\API\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
